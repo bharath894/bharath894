@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @bharath894
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+pkg install update && pkg install upgrade
 
-<!---
-bharath894/bharath894 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pkg install git
+
+git clone https://github.com/bharath894/WiFi-ExTr4ct0r.git
+
+ls
+
+cd WiFi-ExTr4ct0r
+
+ls Chmod +x ./WiFi-ExTr4ct0r.sh
+
+Then connect to root Enter 1 num
+
+And re enter ./WiFi-ExTr4ct0r.sh
+
+Enter 2 num
+
+Enter 2 num
+
+Done......
